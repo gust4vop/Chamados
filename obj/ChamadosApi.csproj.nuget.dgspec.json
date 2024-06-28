@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\lixo\\ChamadosApi\\ChamadosApi.csproj": {}
+    "C:\\lixo\\teste\\Chamados\\ChamadosApi.csproj": {}
   },
   "projects": {
-    "C:\\lixo\\ChamadosApi\\ChamadosApi.csproj": {
+    "C:\\lixo\\teste\\Chamados\\ChamadosApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\lixo\\ChamadosApi\\ChamadosApi.csproj",
+        "projectUniqueName": "C:\\lixo\\teste\\Chamados\\ChamadosApi.csproj",
         "projectName": "ChamadosApi",
-        "projectPath": "C:\\lixo\\ChamadosApi\\ChamadosApi.csproj",
+        "projectPath": "C:\\lixo\\teste\\Chamados\\ChamadosApi.csproj",
         "packagesPath": "C:\\Users\\gustavo.pereira\\.nuget\\packages\\",
-        "outputPath": "C:\\lixo\\ChamadosApi\\obj\\",
+        "outputPath": "C:\\lixo\\teste\\Chamados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gustavo.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GXM7K/8wQ6nvrKN8e2jBGd0vR46XwmGUdsGIb4hcZN6AilC74mDQ0OMJ51DGY3EFlskFiux5aLXZ8fFqpJLcMQ==",
+  "dgSpecHash": "bnTQ56o3krq5AhD4az8LqUm2A9z1CfHffQIVVysxXtiRSD04Os4Fe0Dc7VH8FOk9/bX7AnLcPeNa6z3YrnlZfQ==",
   "success": true,
-  "projectFilePath": "C:\\lixo\\ChamadosApi\\ChamadosApi.csproj",
+  "projectFilePath": "C:\\lixo\\teste\\Chamados\\ChamadosApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gustavo.pereira\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\gustavo.pereira\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
